@@ -1,4 +1,4 @@
-## These functions calculates the inverse of a matrix and  returns it or 
+## These functions calculate the inverse of a matrix and  returns it or 
 ## resturns the cached value of the matrix if it already exists
 
 ## makeCacheMatrix() creates a matrix
